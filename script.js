@@ -291,8 +291,6 @@ body {
     overflow: hidden;
     border: none;
     cursor: pointer;
-    outline: none;
-    -webkit-tap-highlight-color: transparent;
 }
 
 .btn-primary {
